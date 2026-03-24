@@ -10,6 +10,8 @@ cascade:
     text_link_label: Proyectos recientes
     text_link_url: /blog/
 description: "Estos son algunos de los programas y proyectos en los que hemos participado, los cuales acreditan nuestra experiencia en diseño, evaluación y monitoreo de políticas públicas."
+
+
 layout: list-sidebar
 show_author_byline: true
 show_button_links: true
