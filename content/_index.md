@@ -1,8 +1,8 @@
 ---
-
 subtitle: investigamos y aportamos valor real a sus proyectos
 title: E-Valuar SAS
 type: home
+layout: home
 
 description: Bienvenido a la página web de E-Valuar, somos una empresa especializada en el análisis y procesamiento de información para mejorar los criterios de decisión en el ámbito público y privado. En este espacio te contamos **nuestra historia**, te presentamos a **nuestro equipo** y te mostramos **nuestra experiencia** con organizaciones públicas y privadas de Colombia y la región. 
 
@@ -17,8 +17,6 @@ text_align_left: true
 action_label: Ver más >
 action_link: /about
 action_type: text
-
-
 ---
 
 ** index doesn't contain a body, just front matter above.
