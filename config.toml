@@ -10,6 +10,7 @@ googleAnalytics = ""
 #disqusShortname = "" # see params.comments to use utterances or giscus instead of Disqus
 metaDataFormat = "yaml"
 footnoteReturnLinkContents = "&#8617;" # ↩
+relativeURLs = true
 # set deliberately low for testing choose your preffered number based on the blog layout you've chosen
 [pagination]
   pagerSize = 5
