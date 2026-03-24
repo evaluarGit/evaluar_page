@@ -31,7 +31,7 @@ intro: |
   
   Como consultor internacional ha evaluado programas de seguridad ciudadana y cumplimiento de la ley en Centroamérica y el Caribe. Es autor de tres [manuales de evaluación](https://digitallibrary.un.org/record/554457?ln=es&v=pdf) publicados por ILPES/CEPAL, ha sido instructor en cursos internacionales de evaluación y profesor de maestría en evaluación de política social.
   
-  <hnavarro@evaluar.org.co>
+  <hnavarro@e-valuarsas.com>
   
   ### Esteban Gómez-Santiago
   
@@ -41,7 +41,7 @@ intro: |
   
   Ha impartido cursos de estadística y economía, actualmente es responsable de los cursos sobre análisis, procesamiento y visualización de datos que ofrece E-valuar.
   
-  <esteban.gomez@evaluar.org.co>
+  <egomez@e-valuarsas.com>
   
 show_outro: true
 outro: |
