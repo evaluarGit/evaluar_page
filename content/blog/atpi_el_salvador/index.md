@@ -1,17 +1,21 @@
 ---
 author: EValuar
 date: "2026-03-19"
+subtitle: Un diseño experimental para determinar el efecto del programa en el desarrollo infantil
+title: Evaluación de los Círculos de Familia en El Salvador
+
 image: featured.png
+featured: true
+
 categories:
 - Evaluación de impacto
 - Educación
+
 draft: false
 excerpt: Acompañamos a ISEGORIA en la evaluación de impacto del programa Círculos de Familia en El Salvador.
    Mediante un diseño experimental, se determinó el efecto que tiene está iniciativa de atención a la primera infancia en el desarrollo infantil.
    
 layout: single
-subtitle: Un diseño experimental para determinar el efecto del programa en el desarrollo infantil
-title: Evaluación de los Círculos de Familia en El Salvador
 ---
 
 Junto a [ISEGORÍA](https://www.isegoria.co/) y el Banco Interamericano de Desarrollo, realizamos una evaluación de impacto de los **Círculos de Familia** para la Vía Familiar Comunitaria en El Salvador, una iniciativa de atención a la primera infancia conducida por el [Ministerio de Educación de El Salvador](https://www.mined.gob.sv/primera-infancia/) y el [Instituto Crecer Juntos](https://icj.gob.sv/).
