@@ -4,7 +4,8 @@ date: "2026-03-19"
 subtitle: Un diseño experimental para determinar el efecto del programa en el desarrollo infantil
 title: Evaluación de los Círculos de Familia en El Salvador
 
-image: "/blog/atpi_el_salvador/featured.png"
+image: "featured.png"
+thumbnail: "featured.png"
 featured: true
 
 categories:
