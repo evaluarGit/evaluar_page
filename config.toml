@@ -1,4 +1,4 @@
-baseURL = "https://www.example.org/"
+baseURL = "https://www.e-valuarsas.netlify.app/"
 theme = "hugo-apero"
 languageCode = "es"
 locale = "es-ES"
