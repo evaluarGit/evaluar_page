@@ -1,6 +1,7 @@
 ---
 author: EValuar
 date: "2026-03-19"
+image: "img/logo01.jpg"
 categories:
 - Evaluación de impacto
 - Educación
